@@ -1,0 +1,114 @@
+*{
+margin: 0;
+    padding: 0;
+    color: black;
+    
+}
+
+h1{
+text-align: center;	
+    padding: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: system-ui;
+}
+h2{
+text-align: center;
+padding: 20px;
+}
+.register{
+
+   background: transparent;
+    width: 500px;
+    margin: 0px 0px 0px 450px;
+    color: #1b1a1a;
+    font-size: 18px;
+    font-style: italic;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#register{
+
+	margin-left:90px;
+}
+
+label{
+    color: #1b1a1a;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#name{
+    width: 300px;
+    /* height: 30px; */
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+background-color: white;
+    color: black;
+}
+#ph{
+    width: 64px;
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+background-color: white;
+    color: black;
+}
+#bgroup{
+    width: 45px;
+    height: 20px;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    outline: 0
+background-color: white;
+    color: black;
+}
+#age{
+    width: 50px;
+    height: 25px;
+    padding: 2px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+background-color: white;
+    color: black;
+}
+#num{
+    width: 230px;
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+background-color: white;
+    color: black;
+}
+#sub{
+    width: 112px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+        background-color: seashell;
+    color: black;
+}
+body
+{
+background-image:url("blood-donation-post4.png");
+background-size:100% 100%;
+background-attachment:fixed;
+}
+
+
+

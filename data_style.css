@@ -1,0 +1,66 @@
+body
+{
+background-image:url("blood-donation-post.jpeg");
+background-size:100% 100%;
+background-attachment:fixed;
+}
+
+div {
+   background: transparent;
+    color:#131212;
+    max-width: 550px;
+    width: 100%;
+    height: 40vh;
+    position: absolute;
+    text-align: center;
+    margin-left: 373px;
+    padding: 120px;
+    font-weight: 900;
+    font-family: sans-serif;
+    font-style: italic;
+    border: black;
+box-sizing: content-box;
+}
+
+table
+{
+align-items: center;
+}
+sub{
+    width: 112px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    background-color: seashell;
+}
+res{
+    margin-left: 148px;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 3px;
+    font-family: sans-serif;
+    font-weight: bold;
+    float: left;
+    padding: 4px;
+}
+age{
+        width: 44px;
+    height: 25px;
+    padding: 2px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+element.style {
+    margin-left: -444px;
+    /* padding: 104px; */
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: currentColor;
+}
